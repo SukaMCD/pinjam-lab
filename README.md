@@ -4,17 +4,17 @@
   <p align="center">
     Pinjam Ruang Mudah dan Cepat!
     <br />
-    <a href="http://pinjam-ruang.batam-jasa.online/">Lihat Demo</a>
+    <a href="http://pinjam-lab.batam-jasa.online/">Lihat Demo</a>
     ·
-    <a href="https://github.com/vonsogt/pinjam-ruang/issues">Laporkan Kesalahan</a>
+    <a href="https://github.com/SukaMCD/pinjam-lab/issues">Laporkan Kesalahan</a>
     ·
-    <a href="https://github.com/vonsogt/pinjam-ruang/issues">Ajukan Fitur Baru</a>
+    <a href="https://github.com/SukaMCD/pinjam-lab/issues">Ajukan Fitur Baru</a>
   </p>
 </p>
 
 ## Daftar Isi
 
-* [Tentang Pinjam Ruang](#tentang-pinjam-ruang)
+* [Tentang Pinjam Ruang](#tentang-pinjam-lab)
   * [Dibuat Menggunakan](#dibuat-menggunakan)
 * [Demo](#demo)
 * [Gambar](#gambar)
@@ -27,7 +27,7 @@
 * [Lisensi](#lisensi)
 * [Kontak](#kontak)
 
-## Tentang pinjam-ruang
+## Tentang pinjam-lab
 
 Pinjam Ruang merupakan sebuah aplikasi berbasis website yang bertujuan untuk mempermudah peminjaman ruangan pada suatu universitas/kampus.
 
@@ -36,7 +36,7 @@ Pinjam Ruang merupakan sebuah aplikasi berbasis website yang bertujuan untuk mem
 
 ## Demo
 
-Tautan: [https://pinjam-ruang.vonsofh.site/admin](https://pinjam-ruang.vonsofh.site/admin)
+Tautan: [https://pinjam-lab.vonsofh.site/admin](https://pinjam-lab.vonsofh.site/admin)
 
 Akun: admin/admin
 
@@ -75,7 +75,7 @@ FRONTEND
 
 ## Mulai
 
-Sebelum melakukan instalasi proyek `pinjam-ruang` ada baiknya perhatikan hal-hal berikut ini:
+Sebelum melakukan instalasi proyek `pinjam-lab` ada baiknya perhatikan hal-hal berikut ini:
 
 ### Prasyarat
 
@@ -88,11 +88,11 @@ Sebelum menggunakan projek ini, diperlukanya:
 
 1. Unduh/Clone proyek ini
    ```git
-   git clone https://github.com/vonsogt/pinjam-ruang.git
+   git clone https://github.com/SukaMCD/pinjam-lab.git
    ```
-2. Lalu pindah ke direktori `pinjam-ruang`
+2. Lalu pindah ke direktori `pinjam-lab`
    ```sh
-   cd pinjam-ruang
+   cd pinjam-lab
    ```
 3. Install komponen yang diperlukan menggunakan composer
    ```sh
@@ -120,7 +120,7 @@ Sebelum menggunakan projek ini, diperlukanya:
 
 ## Petunjuk
 
-Lihat [open issues](https://github.com/vonsogt/pinjam-ruang/issues) untuk daftar fitur yang diusulkan (dan masalah yang diketahui).
+Lihat [open issues](https://github.com/SukaMCD/pinjam-lab/issues) untuk daftar fitur yang diusulkan (dan masalah yang diketahui).
 
 ## Berkontribusi
 
@@ -128,9 +128,9 @@ Kontribusi adalah yang membuat komunitas open source menjadi tempat yang luar bi
 
 ## Lisensi
 
-`pinjam-ruang` berlisensi di bawah [MIT license](https://opensource.org/licenses/MIT).
+`pinjam-lab` berlisensi di bawah [MIT license](https://opensource.org/licenses/MIT).
 
 
 ## Kontak
 
-Vonso - vonsogt18081999@gmail.com
+Email - fabian25march@gmail.com
